@@ -376,7 +376,7 @@ console.log(typeof "x")
 
 {{id "console.log"}}
 
-Usaremos `console.log` en los ejemplos de código para indicar que
+Usaremos `console.log` en los ejemplos de código para indicar
 que queremos ver el resultado de alguna evaluación.
 Mas acerca de esto esto en el [proximo capitulo](estructura_de_programa).
 
